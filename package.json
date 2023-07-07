@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "semver": "^7.3.5"
+    "semver": "^5.7.1"
   }
 }
